@@ -8,7 +8,11 @@ Al ser ejecutado, esperar a que el programa pida ingresar los números a utiliza
 
 ## Ejecución con Docker
 crea imagen
-`docker build -t exercise2 .`
+```
+docker build -t exercise2 .
+```
 
 ejecuta script
-`docker run --rm -it exercise2`
+```
+docker run --rm -it exercise2
+```
